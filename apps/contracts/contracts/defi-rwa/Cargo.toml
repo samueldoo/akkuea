@@ -13,6 +13,7 @@ doctest = false
 sep-40-oracle = "1.4.0"
 soroban-sdk = { workspace = true }
 itoa = "1.0"
+time = "=0.2.22"
 
 [dev-dependencies]
 soroban-sdk = { workspace = true, features = ["testutils"] }
